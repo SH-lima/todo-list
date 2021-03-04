@@ -1,0 +1,9 @@
+.centerHorizontale{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.flex{
+    display:flex !important;
+}
